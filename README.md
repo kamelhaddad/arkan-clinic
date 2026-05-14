@@ -1,2 +1,2 @@
-# arkan-clinic
-arkan clinic web site
+# aknan-clinic
+aknan clinic web site
